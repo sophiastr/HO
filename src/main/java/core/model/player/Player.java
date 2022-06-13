@@ -1627,7 +1627,7 @@ public class Player {
      *
      * @param m_lastMatchRating New value of property m_iTrainerTyp.
      */
-    public void setLastMatchRating(double m_lastMatchRating) {
+    public void setLastMatchRating(Integer m_lastMatchRating) {
         this.m_lastMatchRating = m_lastMatchRating;
     }
 
